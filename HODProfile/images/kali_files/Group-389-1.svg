@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_389" data-name="Group 389" width="42" height="42" viewBox="0 0 42 42">
+  <rect id="Rectangle_11425" data-name="Rectangle 11425" width="42" height="42" rx="8" fill="#007ab9"></rect>
+  <g id="Icon_feather-linkedin" data-name="Icon feather-linkedin" transform="translate(10.567 11.091)">
+    <path id="Path_29431" data-name="Path 29431" d="M21.263,12a6.263,6.263,0,0,1,6.263,6.263v7.307H23.351V18.263a2.088,2.088,0,1,0-4.176,0v7.307H15V18.263A6.263,6.263,0,0,1,21.263,12Z" transform="translate(-6.649 -5.737)" fill="#fff"></path>
+    <path id="Path_29432" data-name="Path 29432" d="M3,13.5H7.176V26.027H3Z" transform="translate(-3 -6.193)" fill="#fff"></path>
+    <path id="Path_29433" data-name="Path 29433" d="M7.176,5.088A2.088,2.088,0,1,1,5.088,3,2.088,2.088,0,0,1,7.176,5.088Z" transform="translate(-3 -3)" fill="#fff"></path>
+  </g>
+</svg>
