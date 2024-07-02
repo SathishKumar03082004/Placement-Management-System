@@ -7,3 +7,4 @@ Placement Management System for IWT(Internet and Web Technology) Project.
 [Arun A](https://github.com/ArunA-IT)  
 [Ashwin A](https://github.com/ashwin-30)  
 [Ganesh Ram R](https://github.com/RamR3899)
+[Mithun Kailash R.S](https://github.com/RajHar004)
